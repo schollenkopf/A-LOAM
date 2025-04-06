@@ -571,7 +571,7 @@ Visualization Manager:
           Size (Pixels): 3
           Size (m): 0.0500000007
           Style: Flat Squares
-          Topic: /velodyne_points
+          Topic: /ouster/points
           Unreliable: false
           Use Fixed Frame: true
           Use rainbow: true
@@ -667,7 +667,7 @@ Visualization Manager:
   Enabled: true
   Global Options:
     Background Color: 0; 0; 0
-    Fixed Frame: camera_init
+    Fixed Frame: os_sensor
     Frame Rate: 30
   Name: root
   Tools:
